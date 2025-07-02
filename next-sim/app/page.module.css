@@ -1,0 +1,21 @@
+.container {
+  padding: 20px;
+  font-family: sans-serif;
+}
+
+.controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+
+.controls label {
+  display: flex;
+  flex-direction: column;
+  font-size: 14px;
+}
+
+.btn {
+  padding: 4px 12px;
+}
